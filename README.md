@@ -1,2 +1,3 @@
-# bulgar_max_cores
-RedM Script
+The script gives a little bit more Stamina and Energy to our Character.
+
+[img]https://i.imgur.com/nbXoVtD.png[/img]
