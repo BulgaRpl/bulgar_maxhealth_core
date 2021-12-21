@@ -1,4 +1,4 @@
-The script gives a little bit more Stamina to our Character.
+The script gives a little bit more Health Core to our Character.
 
 Works On RedM.
 
